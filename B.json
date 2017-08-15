@@ -1,0 +1,29 @@
+[{
+  "index_no": 1234,
+  "first_name": "Chathurika",
+  "last_name": "Perera",
+  "email": "chathu@gmail.com",
+  "gender": "Female",
+  "birthday": "15.02.1994"
+}, {
+  "index_no": 1245,
+  "first_name": "Gayan",
+  "last_name": "Fernando",
+  "email": "gayan1@gmail.com",
+  "gender": "Male",
+  "birthday": "20.11.1993"
+}, {
+  "index_no": 1233,
+  "first_name": "Shanika",
+  "last_name": "Madumali",
+  "email": "madumali@gmail.com",
+  "gender": "Female",
+  "birthday": "19.08.1993"
+}, {
+  "index_no": 1250,
+  "first_name": "Chaminda",
+  "last_name": "Jagoda",
+  "email": "chaminda93@gmail.com",
+  "gender": "Male",
+  "birthday": "26.03.1993"
+}]
